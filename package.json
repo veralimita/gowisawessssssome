@@ -1,0 +1,16 @@
+{
+  "name": "gowisawessssssome",
+  "version": "1.0.0",
+  "description": "God of War twitter app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "couchplaygirl",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.3.0",
+    "moment": "^2.22.0",
+    "twitter": "^1.7.1"
+  }
+}

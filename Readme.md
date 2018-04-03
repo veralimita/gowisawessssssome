@@ -1,0 +1,2 @@
+Скрипт для твиттов формата "До выхода игры God of War осталось 14 дней."
+[https://twitter.com/search?l=&q=%23godofwar%20from%3Acouchplaygirl&src=typd](https://twitter.com/search?l=&q=%23godofwar%20from%3Acouchplaygirl&src=typd)
